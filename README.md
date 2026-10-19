@@ -5,6 +5,7 @@
 
 📍 Kerman, Iran  
 🔬 **ORCID:** [0009-0009-9739-3261](https://orcid.org/0009-0009-9739-3261)  
+🎓 **Google Scholar:** [Mohammad Mahdi Amiri Dumar](https://scholar.google.com/citations?hl=en&user=rijh6aEAAAAJ)  
 💻 **GitHub:** [github.com/mmamiridumar](https://github.com/mmamiridumar)  
 📬 **Email:** [mamiridumar@gmail.com](mailto:mamiridumar@gmail.com)
 
